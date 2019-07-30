@@ -1,6 +1,14 @@
 TVM CLib(Binary dependence) for Windows
 =======================================
 
+## Usage
+
+Download newest binary in https://github.com/GalAster/tvm-clib-win/releases
+
+Put `*.dll` into python packages of tvm, topi, nnvm.
+
+## Info
+
 Pre-build with CUDA support, LLVM support.
 
 The environment variables are as follows:
